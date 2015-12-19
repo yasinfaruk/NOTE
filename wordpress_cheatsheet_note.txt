@@ -1,0 +1,3 @@
+
+1. 1. To show image = "<?php echo get_template_directory_uri();?>
+2. 

@@ -1,0 +1,2 @@
+
+1. Give a folder Read, Write permission: sudo chmod -R 777 <desired folder>
