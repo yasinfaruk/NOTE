@@ -1,0 +1,13 @@
+Create live page command in github ------------
+
+1. git clone https://github.com/yasinfaruk/signup.git
+2. git checkout -b gh-pages
+3. git add --all
+4. git commit -m "first commit"
+5. git push origin gh-pages
+
+
+=====================================================================================================================
+
+
+
